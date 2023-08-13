@@ -1,2 +1,0 @@
-# bangla-dates
-WordPress Plugin
